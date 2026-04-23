@@ -252,7 +252,7 @@ class _ProfileState extends State<Profile> {
               "I grew up surrounded by books but developed a passion for software development at an early age. "
               "When I’m not writing code or studying my subjects, you’ll find me exploring local spots with my phone by my side, "
               "diving into science fiction movies, or getting lost in the worlds of my favorite video games. "
-              "I believe in building technology that truly helps people, and I’m on a journey to turn that belief into reality — one project at a time.",
+              "I believe in building technology that truly helps people and community, and I’m on a journey to turn that belief into reality — one project at a time.",
               style: TextStyle(fontSize: 14, height: 1.4),
               textAlign: TextAlign.justify,
             ),
